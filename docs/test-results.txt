@@ -1,0 +1,26 @@
+test_attendance_precedence_and_scope (test_analysis.Analysis.test_attendance_precedence_and_scope) ... ok
+test_chat_opt_in_and_stale (test_analysis.Analysis.test_chat_opt_in_and_stale) ... ok
+test_config (test_analysis.Analysis.test_config) ... ok
+test_conflicting_duplicate (test_analysis.Analysis.test_conflicting_duplicate) ... ok
+test_duplicates_and_cancelled (test_analysis.Analysis.test_duplicates_and_cancelled) ... ok
+test_general_chat_rejected (test_analysis.Analysis.test_general_chat_rejected) ... ok
+test_history_requires_coverage (test_analysis.Analysis.test_history_requires_coverage) ... ok
+test_leave (test_analysis.Analysis.test_leave) ... ok
+test_missing_participants (test_analysis.Analysis.test_missing_participants) ... ok
+test_missing_schedules (test_analysis.Analysis.test_missing_schedules) ... ok
+test_naive_time_unknown (test_analysis.Analysis.test_naive_time_unknown) ... ok
+test_no_reservation_not_empty (test_analysis.Analysis.test_no_reservation_not_empty) ... ok
+test_sequential_not_summed (test_analysis.Analysis.test_sequential_not_summed) ... ok
+test_thresholds (test_analysis.Analysis.test_thresholds) ... ok
+test_timetable_proxy (test_analysis.Analysis.test_timetable_proxy) ... ok
+test_timezone_slot_and_midnight (test_analysis.Analysis.test_timezone_slot_and_midnight) ... ok
+test_degradation (test_analysis.Collector.test_degradation) ... ok
+test_origin (test_analysis.Collector.test_origin) ... ok
+test_pagination (test_analysis.Collector.test_pagination) ... ok
+test_chat_event_is_not_occupancy (test_realtime.Realtime.test_chat_event_is_not_occupancy) ... ok
+test_revision_order_duplicates_and_reconnect (test_realtime.Realtime.test_revision_order_duplicates_and_reconnect) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.010s
+
+OK
