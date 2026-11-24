@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "koss-room-data"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "GET-only KOSS participant-based quiet-time analysis"
+
+[tool.setuptools.packages.find]
+include = ["koss_data*"]
